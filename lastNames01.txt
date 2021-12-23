@@ -1,0 +1,8 @@
+S      Simpson   7
+B        Burns   5
+N   Nahasapeem  10
+F     Flanders   8
+K    Krabappel   9
+S      Szyslak   7
+
+

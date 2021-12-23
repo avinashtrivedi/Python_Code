@@ -1,0 +1,42 @@
+{
+"_id": {
+
+    "$oid": "60a7ca3f8d48051be7447064"
+
+  },
+
+  "last_updated": 1588192647,
+
+  "ttl": 180,
+
+  "data": {
+
+    "bikes": [{
+
+      "bike_id": "bike_12749",
+
+      "name": "T723",
+
+      "lon": -111.94272,
+
+      "lat": 33.4315,
+
+      "is_reserved": 0,
+
+      "is_disabled": 0
+
+    }, {
+
+      "bike_id": "bike_12881",
+
+      "name": "T782",
+
+      "lon": -112.201445,
+
+      "lat": 33.52102,
+
+      "is_reserved": 0,
+
+      "is_disabled": 0
+    }]}
+  }

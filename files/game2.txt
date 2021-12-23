@@ -1,0 +1,9 @@
+Defenders,0,3,Defused
+Defenders,1,2,Defused
+Attackers,1,0,Eliminated
+Defenders,2,3,Eliminated
+Defenders,4,2,Eliminated
+Attackers,1,0,Eliminated
+Defenders,5,1,Defused
+Defenders,10,3,Defused
+Attackers,0,0,Eliminated

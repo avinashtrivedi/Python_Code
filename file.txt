@@ -1,0 +1,19 @@
+Passed down from the ancient Chinese Han dynasty, the game shoushiling has been used to settle court case decisions, to decide multimillion-dollar deals, and perhaps most importantly, to determine who gets to sit in the front seat of the car.
+
+Today you know the game as Rock, Paper, Scissors, and we’re going to implement it so that you can play the game against a rather tough opponent: your computer.
+
+This is exciting! Isn't it?
+
+But how does it work?
+
+If you’re never heard of Rock, Paper, Scissors we’re going to go over its simple rules now; and if you do know the game, this will be a good review for you. The game is played by two players, who each, upfront, secretly choose either rock, paper, or scissors. The two players then typically count out loud to three (or shout “rock-paper-scissors!”) and then show their choice through their hand position, which is either, you guessed it, a rock, paper, or scissors. The winner can be determined by this chart:
+
+If one player chooses scissors and other chooses rock, the rock blunts the scissors, and rock wins!
+If one player chooses paper and the other chooses rock, the paper wraps the rock and paper wins!
+If both players make the same choice, then? Then the game is a tie.
+If one player chooses paper and the other chooses scissors, the scissors cut the paper and scissors wins!
+
+But the computer doesn't have hands. Does it?
+Mine doesn't!
+
+Source: https://learning.oreilly.com/library/view/head-first-learn/9781491958858/ch03.html
